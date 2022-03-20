@@ -12,13 +12,10 @@ Now, I'm looking to expand my programming knowledge with first web development a
 
 My projects will consist from multiple platforms including:
   - FreeCodeCamp.org
-  - Front-End Mentor
+  - Frontend Mentor
   - The Odin Project
 
 Others will be added as I produce more projects in the future. For now, a list is constructed below:
 
-```markdown
 1. [QR Code Project](https://github.com/mlee99/qrCodeProject)
   - This is considered a "newbie" project focusing on pre-written HTML5 code, but emphasizes HTML construction/organization and also the knowledge of CSS. Sass, a CSS pre-processing langauge, was learned for the use of this project which also introduced variales, functions, and Sass construction. The challenge can be viewed at this website: [Frontend Mentor: QR code componenet](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
-
-```
