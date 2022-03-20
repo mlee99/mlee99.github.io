@@ -1,4 +1,4 @@
-## Who am I?
+# Who am I?
 
 My name is Marcus, and I graduated from Old Dominion University in Norfolk, VA with my Bacehlors of Science in Mechanical Engineering and a minor in Engineering Management. Currently, I've been working as a Project Engineering since December 2021 assisting with design work and order processing within the pump division for my company.
 
@@ -8,7 +8,7 @@ I've thoroughly enjoyed the programming aspect of this project (a lot more so th
 
 Now, I'm looking to expand my programming knowledge with first web development and then move into back end programming focusing on data aggregation and presentation. 
 
-### Projects
+## Projects
 
 My projects will consist from multiple platforms including:
   - FreeCodeCamp.org
@@ -17,5 +17,7 @@ My projects will consist from multiple platforms including:
 
 Others will be added as I produce more projects in the future. For now, a list is constructed below:
 
-1. [QR Code Project](https://github.com/mlee99/qrCodeProject)
-  This is considered a "newbie" project focusing on pre-written HTML5 code, but emphasizes HTML construction/organization and also the knowledge of CSS. Sass, a CSS pre-processing langauge, was learned for the use of this project which also introduced variales, functions, and Sass construction. The challenge can be viewed at this website: [Frontend Mentor: QR code componenet](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+### [QR Code Project](https://github.com/mlee99/qrCodeProject)
+
+This is considered a "newbie" project focusing on pre-written HTML5 code, but emphasizes HTML construction/organization and also the knowledge of CSS. Sass, a CSS pre-processing langauge, was learned for the use of this project which also introduced variales, functions, and Sass construction. The challenge can be viewed at this website: [Frontend Mentor: QR code componenet](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+
